@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "amno",
+        "department": "gui",
+        "salary": 500,
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Ali",
+        "department": "Frontend",
+        "salary": 45000,
+        "active": false
+    }
+    
+]
